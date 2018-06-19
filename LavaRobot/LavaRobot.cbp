@@ -31,6 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="caverna.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="caverna.h" />
+		<Unit filename="game_state.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="game_state.h" />
+		<Unit filename="main-automatica.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="t3-1717553-1717502-1723073.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="t3-1717553-1717502-1723073.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
