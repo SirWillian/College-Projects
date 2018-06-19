@@ -1,7 +1,7 @@
 # Firework Cat
 Made with Terumi Isobe(terumiisobe)
 
-##Commands
+## Commands
 
 WASD - Movement
 Space bar - Shoot firework
