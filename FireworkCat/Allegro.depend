@@ -1,0 +1,383 @@
+# depslib dependency file v1.0
+1447975143 source:d:\dados\codeblocks\share\codeblocks\projects\allegro\classes.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<time.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1447975658 d:\dados\codeblocks\share\codeblocks\projects\allegro\classes.hpp
+
+1447537971 d:\dados\codeblocks\share\codeblocks\projects\allegro\functions.hpp
+
+1447537971 source:d:\dados\codeblocks\share\codeblocks\projects\allegro\functions.cpp
+
+1447975143 source:d:\dados\codeblocks\share\codeblocks\projects\allegro\main.cpp
+	<iostream>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1447901364 d:\dados\codeblocks\share\codeblocks\projects\allegro\enums.hpp
+
+1447636925 source:d:\dados\codeblocks\share\codeblocks\projects\allegro\enums.cpp
+
+1447780590 source:c:\users\terumi\desktop\o\classes.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<time.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1447784518 c:\users\terumi\desktop\o\classes.hpp
+
+1447640760 c:\users\terumi\desktop\o\enums.hpp
+
+1447780630 source:c:\users\terumi\desktop\o\main.cpp
+	<iostream>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448318578 source:c:\codeblocks\share\codeblocks\projects\atualprog\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448321610 c:\codeblocks\share\codeblocks\projects\atualprog\classes.hpp
+
+1448316143 c:\codeblocks\share\codeblocks\projects\atualprog\enums.hpp
+
+1448322075 source:c:\codeblocks\share\codeblocks\projects\atualprog\classes.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+	"templates.hpp"
+
+1448313223 c:\codeblocks\share\codeblocks\projects\atualprog\templates.hpp
+
+1448344296 source:d:\dados\codeblocks\share\codeblocks\projects\atualprog\classes.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+	"templates.hpp"
+
+1448344082 d:\dados\codeblocks\share\codeblocks\projects\atualprog\classes.hpp
+
+1448316143 d:\dados\codeblocks\share\codeblocks\projects\atualprog\enums.hpp
+
+1448313223 d:\dados\codeblocks\share\codeblocks\projects\atualprog\templates.hpp
+
+1448342538 source:d:\dados\codeblocks\share\codeblocks\projects\atualprog\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\boss.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1529447726 d:\dados\git bash\college-projects\fireworkcat\classes.hpp
+
+1448312543 d:\dados\git bash\college-projects\fireworkcat\enums.hpp
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\botao.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\dmgdealers.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\enemy.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1529447230 source:d:\dados\git bash\college-projects\fireworkcat\gamestate.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\hero.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\jogo.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\mapa.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\meleeweapon.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\menu.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\personagem.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\projectile.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\rangedweapon.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
+1448342576 source:d:\dados\git bash\college-projects\fireworkcat\weapon.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	"classes.hpp"
+	"enums.hpp"
+
