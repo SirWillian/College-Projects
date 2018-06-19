@@ -1,0 +1,19 @@
+﻿Instruções Z80
+
+"8bits" LD - Carrega em A,B,C,D,E
+
+LD r,r'   Operation: r, ← r' (reg pra reg)(mov)
+LD r,n    Operation: r ← n (int pra reg)(addi)
+LD (HL),r Operation: (HL) ← r (reg para mem)(sw)(sepa)
+
+ADD A,r   Operation: A ← A + r
+ADD A,n	  Operation: A ← A + n
+                            (ver flags setadas)
+SUB A,r   Operation: A ← A + r
+SUB A,n   Operation: A ← A + n
+
+JP nn     Operation: PC ← nn (nn = constante)
+JP condicionais, de acordo com as flags q a gente tiver
+JR e      Operation: PC ← PC + e (e = constante)
+JR condicionais, de acordo com as flags q a gente tiver
+DJNZ, e
